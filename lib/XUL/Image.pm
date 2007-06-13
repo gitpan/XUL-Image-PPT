@@ -12,7 +12,7 @@ use Clipboard;
 use File::Spec;
 use Image::Magick;
 
-our $VERSION = '0.01';
+our $VERSION = '0.03';
 
 has 'title'  => (is => 'ro', isa => 'Str', default => 'Mozilla');
 has 'count'  => (is => 'ro', isa => 'Int', required => 1);
