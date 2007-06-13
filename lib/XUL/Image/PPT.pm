@@ -104,13 +104,11 @@ L<XUL::Image>
 
 =head1 AUTHOR
 
-Agent Zhang E<lt>agentzh@gmail.comE<gt>
 Sal Zhong E<lt>zhongxiang721@gmail.comE<gt>
 
 =head1 COPYRIGHT
 
-Copyright (c) 2006 Agent Zhang. All rights reserved.
-Copyright (c) 2006 Sal Zhong. All rights reserved.
+Copyright (c) 2006~2007 Sal Zhong. All rights reserved.
 
 This library is free software; you can redistribute it
 and/or modify it under the same terms as perl itself.
